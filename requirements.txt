@@ -5,5 +5,5 @@ pandas==1.5.3
 scikit_learn==1.2.2
 spacy==3.6.1
 streamlit==1.28.1
-tensorflow_macos==2.12.0
+tensorflow==2.12.*
 tqdm==4.65.0
